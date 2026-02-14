@@ -96,7 +96,6 @@ export function CurrentlyPlaying({ previous, next, audioRef, set, currentTime, d
 
                     </div>
 
-                    {/* <button className="download-btn">⬇ Download</button> */}
                 </div>
 
             </section>
