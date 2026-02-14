@@ -83,36 +83,6 @@ export function LibraryPage({ setSearchSongs, searchSongs, searchedSongs, playSo
 
                             )
                         }))}
-
-
-
-                        {/* <button className="play-btn stop"
-
-                            >Stop</button> */}
-
-
-
-                        {/* <div className="song">
-                        <img src="Praying For better Days.jpg" />
-                        <div className="song-info">
-                            <h4>Sunrise Vibes</h4>
-                            <p>Luna Beats</p>
-                        </div>
-                        <span className="duration">3:45</span>
-                        <button className="play-btn">▶ Play</button>
-
-                    </div>
-
-                    <div className="song">
-                        <img src="Down.jpg" />
-                        <div className="song-info">
-                            <h4>Ocean Dreams</h4>
-                            <p>Skyline</p>
-                        </div>
-                        <span className="duration">4:10</span>
-                        <button className="play-btn">▶ Play</button>
-                    </div>
- */}
                     </div>
 
                 </section>

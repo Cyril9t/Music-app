@@ -15,7 +15,6 @@ export function HomePage({ NavigationBar }) {
             setUpdateWords(updateWords + words[count]);
             setCount(prev => prev + 1);
         }
-        console.log(updateWords);
     }
 
     setTimeout(() => {
